@@ -2,7 +2,7 @@
 
 - https://github.com/kukuu/fintech-open-banking-api
 
-## Best Practices
+# Best Practices
 - https://github.com/kukuu/fintech-open-banking-api/blob/main/banking-best-practices.md
 
 # Change Logs 
